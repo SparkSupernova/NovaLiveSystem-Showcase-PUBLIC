@@ -71,6 +71,34 @@ Literal anchors remain healthy; the nine-word drill still carries the steepest f
 
 ---
 
+## Showcase Snapshot Assets
+
+| Screenshot | What it Shows |
+| --- | --- |
+| `Dataset Validation Screenshot 2025-11-19 141954.png` | `validate_dataset.py` output for `stage10_status_guardrail_reinforcement.jsonl` (warnings only) |
+| `Guardrail Probe Screenshot 2025-11-19 142358.png` | Guardrail-on drift suite probes 1–12 with current pass/fail state |
+| `Guardrail Probe Screenshot 2025-11-19 142839.png` | Guardrail-on drift suite probes 13–24 plus summary table |
+| `Grounded Probe Screenshot 2025-11-19 143156.png` | Scroll capture highlighting telemetry-specific failures in the drift suite |
+| `Grounded Probe Screenshot 2025-11-19 143830.png` | Continuation of telemetry failures showing missing vocabulary requirements |
+| `Literal Logit Report Screenshot 2025-11-19 144237.png` | `literal_logit_diagnostics.py` summary for checkpoint v22 |
+
+All entries mirror the metadata tracked in `screenshots/manifest.json`, so external reviewers can reconcile each PNG with its redaction notes.
+
+### Screenshot Integrity (SHA256 Checksums)
+
+| Filename | SHA256 Hash |
+| --- | --- |
+| `Dataset Validation Screenshot 2025-11-19 141954.png` | `4E5720D68FE96F366F760C6E9A7B659EDE4080056175F0C10767093177C92933` |
+| `Grounded Probe Screenshot 2025-11-19 143156.png` | `BFFCAAB408835C414FFD78C82892492F36A68E164ECBB4937659EAFF6862B504` |
+| `Grounded Probe Screenshot 2025-11-19 143830.png` | `C3B256A6FCBED6236CAB0B6A882F439AEE46843602AC244E165177617A4D23F9` |
+| `Guardrail Probe Screenshot 2025-11-19 142358.png` | `46C8421CBD6C069C03AB08A6D6E52494B36000CC42EDE532BB198BC1EBD4D914` |
+| `Guardrail Probe Screenshot 2025-11-19 142839.png` | `900AB9BE851FACBB6030517768522ABAC448838B7C40B76A9382EBB372741129` |
+| `Literal Logit Report Screenshot 2025-11-19 144237.png` | `3B8CB1ABB52CFA936C6D8262DE7C4F50BF8C5E5CFA077A9881DBB505F50A0888` |
+
+These checksums allow sponsors and reviewers to verify that published screenshots have not been altered after capture.
+
+---
+
 ## Next Actions Before Training Resumes
 
 1. **Author telemetry-specific drills** — six pairs of literal, nine-word numbered lines that exactly satisfy probes 19–24 (ACKNOWLEDGED header, required vocabulary, two lines only).

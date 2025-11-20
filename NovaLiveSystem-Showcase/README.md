@@ -2,6 +2,7 @@
 
 **Status:** Private Core • Public Demonstration
 **Focus Areas:** Biomimetic cognition · Memory continuity · Conversational coherence
+**Public Snapshot:** https://github.com/SparkSupernova/NovaLiveSystem-Showcase-PUBLIC
 
 NovaLiveSystem is an experimental AI architecture inspired by functional neurobiology and structured cognitive systems. This repository provides a high-level conceptual overview, research notes, and development artifacts. Core source code, data pipelines, and model weights are private for safety, privacy, and IP protection.
 
@@ -30,6 +31,8 @@ This framework treats intelligence as **distributed, stateful, and embodied acro
 |------|----------|
 | `architecture_overview.md` | Concept diagrams & flow maps (no source code) |
 | `training_results.md` | Performance snapshots across training iterations |
+| `EVALUATION_NOTES.md` | Testing protocols, drift suites, literal logit diagnostics |
+| `SPONSORSHIP.md` | Funding priorities, partnership opportunities, impact statement |
 | `screenshots/` | Terminal logs & validation images |
 | `meta/ABOUT_THIS_REPO.md` | Why only partial code is public |
 | `meta/CONTACT.md` | Inquiry channels (collabs, grants, research partnerships) |
