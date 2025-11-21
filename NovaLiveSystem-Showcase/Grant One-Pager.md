@@ -58,7 +58,7 @@ My work bridges *cognitive design, emotional engineering, and system architectur
 
 Support will enable:
 
-1. Expand ethically sourced training data (50k+ milestone)
+1. Expand ethically sourced training data (500k+ milestone)
 2. Harden Pulse Echo + build dashboards for real-time drift monitoring
 3. Develop a user-facing tool for journaling, regulation, and long-term companionship
 4. Ongoing documentation for open research contribution
@@ -90,3 +90,4 @@ The goal is *empowerment, not replacement.*
 ## 📬 Contact
 
 See **meta/CONTACT.md** for email and collaboration requests.
+
