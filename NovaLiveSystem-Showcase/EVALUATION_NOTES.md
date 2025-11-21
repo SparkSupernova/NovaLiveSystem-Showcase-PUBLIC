@@ -8,7 +8,7 @@ This document describes how NovaLiveSystem is tested, validated, and benchmarked
 
 ### 1. Drift Suite (Holdout Probes)
 - **Location:** `artifacts/tests/calibration/stage10_holdout_prompts.jsonl` (private repo)
-- **Purpose:** Measure model adherence to literal facts, structured output formats, and guardrail constraints across 24 curated prompts never seen during training.
+- **Purpose:** Measure model adherence to literal facts, structured output formats, and guardrail constraints across curated prompts never seen during training.
 - **Frequency:** After every checkpoint (continue-train run), both with guardrails enabled and disabled.
 - **Current Status (v22):** 
   - Guardrail-off: 18/24 pass
@@ -79,3 +79,4 @@ For detailed evaluation results, partnership inquiries, or under-NDA access to f
 
 **Last Updated:** November 19, 2025  
 **Checkpoint Coverage:** Stage10 v22 (latest)
+
