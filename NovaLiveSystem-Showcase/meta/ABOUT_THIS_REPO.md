@@ -31,7 +31,7 @@ This is a research and development environment, not a product release.
 - raw training data
 - internal tooling
 
-Those assets exist but are intentionally withheld until safety, legal, and
+Those assets are intentionally withheld until safety, legal, and
 ethical conditions for release are met.
 
 ## About NOVA™ (Conversational Layer)
@@ -63,3 +63,4 @@ All content is original work by:
 
 See `LICENSE` for conditions of use and attribution.
 © 2025 SparkPlugged Technology Solutions. All rights reserved.
+
