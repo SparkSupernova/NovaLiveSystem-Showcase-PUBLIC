@@ -51,7 +51,7 @@ to support human cognition, not replace it.
 
 NOVA originally meant **Neurodivergent Omnipotence Vector Ascension** —  
 a mission statement describing empowerment and cognitive growth,
-especially for neurodivergent builders and mothers.
+especially for neurodivergent builders.
 
 This describes intent, not capability.
 
@@ -63,4 +63,5 @@ All content is original work by:
 
 See `LICENSE` for conditions of use and attribution.
 © 2025 SparkPlugged Technology Solutions. All rights reserved.
+
 
