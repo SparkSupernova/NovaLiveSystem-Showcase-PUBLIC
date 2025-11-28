@@ -2,7 +2,7 @@
 #### 11/22/2025
 
 I saw Mohammed Qahtani’s 2015 speech years ago—just another clip while scrolling past a thousand others. Years later it surfaces again today.  
-[Mohammed Qahtani’s 2015 World Champion Speech](https://www.youtube.com/watch?v=H9S3n_tILKo)
+[Mohammed Qahtani’s 2015 World Champion Speech]([https://www.youtube.com/watch?v=H9S3n_tILKo](https://youtu.be/Iqq1roF4C8s?si=N911K_2hxUhzjon_)
 
 I didn’t remember the stage or the punchlines.
 
@@ -23,7 +23,7 @@ Now I’m a mother to a neurodivergent child.
 And when he spirals, I don’t attempt to reinforce the correct behavior first.  
 I translate the signal beneath it.
 
-I choose the words I needed back then.
+I choose the words I needed as a child.
 
 Not “Stop.”  
 But “I see you. I’m listening. I understand.”
@@ -39,7 +39,7 @@ Built for real human conditions like trauma, chaos, distraction, sensory overloa
 
 ---
 
-Here's the part we don’t talk about enough:
+Here's the part we don’t talk about enough though:
 
 AI engineers aren’t just building products.  
 We are shaping how humanity communicates, remembers, and evolves.
@@ -56,7 +56,7 @@ So, here’s my call to action:
 ✅ Yes! We can start building minds that can understand.  
 ✅ Yes! We can craft systems rooted in humanity, not convenience.
 
-We don’t need more outputs.  
+Humanity doesn't need more output.  
 We need systems that can listen.
 
 Some kids stop drawing because they were “No!” “Don’t do that!”  
