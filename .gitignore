@@ -1,0 +1,21 @@
+# safety
+*.py
+*.ipynb
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+*.onnx
+artifacts/
+data/
+logs/
+.env
+__pycache__/
+.vscode/
+.idea/
+
+# extras
+*.tfevents*
+*.log
+*.csv
+*.jsonl

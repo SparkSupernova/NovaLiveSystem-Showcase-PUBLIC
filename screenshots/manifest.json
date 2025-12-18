@@ -1,0 +1,64 @@
+{
+	"images": [
+		{
+			"filename": "Dataset Validation Screenshot 2025-11-19 141954.png",
+			"source": "Terminal capture: stage10_status_guardrail_reinforcement dataset validation summary (warnings only)",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Guardrail Probe Screenshot 2025-11-19 142358.png",
+			"source": "Terminal capture: Stage10 guardrail-on drift suite (probes 1-12)",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Guardrail Probe Screenshot 2025-11-19 142839.png",
+			"source": "Terminal capture: Stage10 guardrail-on drift suite (probes 13-24 + summary)",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Grounded Probe Screenshot 2025-11-19 143156.png",
+			"source": "Terminal capture: Stage10 drift suite scroll segment showing failing telemetry probes",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Grounded Probe Screenshot 2025-11-19 143830.png",
+			"source": "Terminal capture: Stage10 drift suite continuation (fail reason details)",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Literal Logit Report Screenshot 2025-11-19 144237.png",
+			"source": "Terminal capture: literal_logit_diagnostics.py output for checkpoint v22",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "EchOrbElite UI Screenshot 2025-11-23.png",
+			"source": "EchOrbElite UI dashboard showing system health and signal analysis",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Inference test 2025-12-14 151006.png",
+			"source": "Nova Mind v1 inference test — interoceptive response demonstration",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Inference test 2025-12-14 151453.png",
+			"source": "Nova Mind v1 inference test — architectural self-awareness output",
+			"redacted": true,
+			"exif_scrubbed": true
+		},
+		{
+			"filename": "Inference test 2025-12-14 151740.png",
+			"source": "Nova Mind v1 inference test — internal state description",
+			"redacted": true,
+			"exif_scrubbed": true
+		}
+	]
+}
