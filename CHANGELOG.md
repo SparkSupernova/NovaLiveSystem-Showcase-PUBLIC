@@ -17,7 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 - **Autonomous Tool Suite**: `nova/tools/` — code_executor, orchestrator, speech_to_text, text_to_speech, web_search.
 - **Nova Agent**: `tools/runtime/nova_agent.py` — autonomous agent backbone.
-- **Gravitational Memory Physics**: Orbital memory model using Newton's Law adaptation (`docs/planning/orbital_memory_physics.md`).
+- **Gravitational Memory Physics**: Orbital memory model using (`docs/planning/orbital_memory_physics.md`).
   - Formula: `relevance = G × (orbit_mass × context_mass) / semantic_distance²`
   - Implemented in: RiverPulse, NovaSpeech, PulseEngine, orbit models.
 - **Portfolio Docs**: Confidentiality agreement for TTU submission.
