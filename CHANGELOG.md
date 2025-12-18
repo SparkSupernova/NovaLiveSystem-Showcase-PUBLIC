@@ -4,6 +4,32 @@ All notable changes to the **NovaLiveSystem** project will be documented in this
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to a date-based versioning system.
 
+## [2025-12-18]
+### Added
+- **Nova Mind v2**: Trained on 23,615 verified samples (MMLU, GSM8K, ARC, TruthfulQA, HumanEval). Final loss 0.806, 3.5x faster inference than base model.
+- **Source-Aware Training**: 12 task-specific system prompts automatically selected by dataset source during training.
+- **Showcase Submodule**: Converted showcase to proper git submodule with clean history.
+
+### Fixed
+- **Repository Structure**: Fixed showcase remote configuration and created sync automation.
+
+## [2025-12-17]
+### Added
+- **AGI Tool Suite**: `nova/tools/` — code_executor, orchestrator, speech_to_text, text_to_speech, web_search.
+- **Nova Agent**: `tools/runtime/nova_agent.py` — autonomous agent backbone.
+- **Gravitational Memory Physics**: Orbital memory model using Newton's Law adaptation (`docs/planning/orbital_memory_physics.md`).
+  - Formula: `relevance = G × (orbit_mass × context_mass) / semantic_distance²`
+  - Implemented in: RiverPulse, NovaSpeech, PulseEngine, orbit models.
+- **Portfolio Docs**: Confidentiality agreement for TTU submission.
+
+### Changed
+- **Legacy Reorganization**: Archived EchoCopi-Framework, experiments, and deprecated scripts to `Legacy/`.
+- **Tool Organization**: Consolidated validation scripts to `tools/training/validation/`, created `tools/analysis/` and `tools/utils/`.
+- **Contact Info**: Updated to sparkpluggedts.com domain.
+
+### Removed
+- Duplicate release folders, old demo shots, deprecated root-level scripts.
+
 ## [2025-12-14]
 ### Added
 - **EchoCopi**: Commercial launch of the persistent memory system.

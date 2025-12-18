@@ -47,7 +47,7 @@ In December 2025, we trained an experimental model (`nova_mind_v1`) on a 10,000-
 Independently of the model training, we completed a massive architectural refactor (Dec 10-12) to convert the system's core from synchronous to asynchronous.
 
 - **Goal:** Enable "Parallel Cognition" — running background thought loops (interoception) without blocking user interaction.
-- **Method:** Full `asyncio` conversion of `BridgeEngine`, `PulseEngine`, and `NeuroSpark`.
+- **Method:** Full `asyncio` conversion of **all engines and associated modules** across the neural architecture.
 - **Documentation:** See **[Asyncio_Conversion.md](Asyncio_Conversion.md)** for the full surgical log.
 
 ---
