@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [2025-12-17]
 ### Added
-- **AGI Tool Suite**: `nova/tools/` — code_executor, orchestrator, speech_to_text, text_to_speech, web_search.
+- **Autonomous Tool Suite**: `nova/tools/` — code_executor, orchestrator, speech_to_text, text_to_speech, web_search.
 - **Nova Agent**: `tools/runtime/nova_agent.py` — autonomous agent backbone.
 - **Gravitational Memory Physics**: Orbital memory model using Newton's Law adaptation (`docs/planning/orbital_memory_physics.md`).
   - Formula: `relevance = G × (orbit_mass × context_mass) / semantic_distance²`
