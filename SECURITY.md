@@ -51,4 +51,4 @@ We will not pursue legal action against anyone who:
 
 *Thank you for helping keep NovaLiveSystem safe.*
 
-*NovaLiveSystem © 2025 SparkPlugged Technology Solutions*
+*NovaLiveSystem © 2026 SparkPlugged Technology Solutions LLC*

@@ -115,4 +115,4 @@ No. NovaLiveSystem is a research project exploring alternative architectures for
 
 *Have a question not listed here? Reach out.*
 
-*NovaLiveSystem © 2025 SparkPlugged Technology Solutions*
+*NovaLiveSystem © 2026 SparkPlugged Technology Solutions LLC*

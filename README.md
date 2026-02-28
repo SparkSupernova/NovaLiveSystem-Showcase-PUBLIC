@@ -94,7 +94,7 @@ This project is built by **SparkSupernova**, an independent neurodivergent resea
 **[Become a Sponsor](https://github.com/sponsors/SparkSupernova)** to fuel the compute, data, and coffee needed to keep Nova alive.
 
 ---
-*NovaLiveSystem © 2025 SparkPlugged Technology Solutions*
+*NovaLiveSystem © 2026 SparkPlugged Technology Solutions LLC*
 
 **Current Model Stack:**
 - **Base:** Qwen2.5-3B-Instruct (4-bit quantized for memory efficiency)

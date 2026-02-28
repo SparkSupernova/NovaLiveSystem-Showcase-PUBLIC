@@ -51,4 +51,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-*NovaLiveSystem © 2025 SparkPlugged Technology Solutions*
+*NovaLiveSystem © 2026 SparkPlugged Technology Solutions LLC*

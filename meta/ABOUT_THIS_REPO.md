@@ -62,4 +62,4 @@ All content is original work by:
 **Ifejah “SparkSupernova” Greene**
 
 See `LICENSE` for conditions of use and attribution.
-© 2025 SparkPlugged Technology Solutions. All rights reserved.
+© 2026 SparkPlugged Technology Solutions LLC. All rights reserved.

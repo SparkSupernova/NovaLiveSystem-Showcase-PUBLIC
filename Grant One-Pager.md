@@ -30,7 +30,7 @@ This is *cognitive architecture*, not just a fine-tuned model.
 ## 🔹 Why I’m Building This (SparkSupernova)
 
 - Neurodivergent mother + researcher solving for real constraints, not hypothetical use cases
-- Founder of **SparkPlugged Technology Solutions**, focused on human-centered AI
+- Founder of **SparkPlugged Technology Solutions LLC**, focused on human-centered AI
 - Building Nova from scratch with a validation-first pipeline and privacy-by-design
 - Special focus on emotional regulation, safety, and trust in human-AI interaction
 - Advocates for accessible AI for women, independent builders, and underrepresented communities
