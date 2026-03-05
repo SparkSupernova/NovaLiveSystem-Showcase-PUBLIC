@@ -19,3 +19,27 @@ __pycache__/
 *.log
 *.csv
 *.jsonl
+
+# ── Internal / Private content blocklist ──
+# These should NEVER appear in the public Showcase.
+# If git warns you about these, it means something private
+# is leaking. Do NOT force-add.
+training_results*
+EVALUATION_NOTES*
+session_*.md
+active_session*
+echo_memory*
+*_continuity*
+*_snapshot*
+*.secret
+*.pem
+*.key
+nova_env/
+nova_spark/
+tools/
+nova/
+config/
+memoryvault/
+backups/
+temp_offload/
+cloud/
